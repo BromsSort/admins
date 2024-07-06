@@ -1,5 +1,3 @@
-version := 1.238
-
 SetWorkingDir %A_ScriptDir%
 
 IfnotExist, %A_ScriptDir%\assets
